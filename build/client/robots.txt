@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.goodwaygiver.site/
+
+# Sitemaps
+Sitemap: https://www.goodwaygiver.site/sitemap.xml

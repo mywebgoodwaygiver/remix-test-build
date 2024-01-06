@@ -1,0 +1,10 @@
+{
+  "virtual:remix/server-build": {
+    "css": [
+      "assets/server-build-1Ebon711.css"
+    ],
+    "file": "index.js",
+    "isEntry": true,
+    "src": "virtual:remix/server-build"
+  }
+}
