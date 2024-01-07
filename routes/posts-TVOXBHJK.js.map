@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/posts.tsx"],
+  "sourcesContent": ["// REMIX HMR BEGIN\nimport * as __hmr__ from \"remix:hmr\";\nif (import.meta) {\nimport.meta.hot = __hmr__.createHotContext(\n//@ts-expect-error\n\"app/routes/posts.tsx\"\n);\nimport.meta.hot.lastModified = \"1704370851941.1958\";\n}\n// REMIX HMR END\n\nimport { Outlet } from '@remix-run/react'\nimport React from 'react'\n\nexport default function posts() {\n  return (\n    <>\n    <Outlet></Outlet>\n    </>\n  )\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;AAgBI;AAdJ,IAAI,aAAa;AACjB,cAAY,MAAc;AAAA;AAAA,IAE1B;AAAA,EACA;AACA,cAAY,IAAI,eAAe;AAC/B;AAMe,SAAR,QAAyB;AAC9B,SACE,sFACA,6DAAC,YAAD;AAAA;AAAA;AAAA;AAAA,SAAQ,KADR;AAAA;AAAA;AAAA;AAAA,SAEA;AAEJ;",
+  "names": []
+}
